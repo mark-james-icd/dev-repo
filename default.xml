@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<remote name="icd" fetch="git@github.com:mark-james-icd" />
+	<remote name="icd" fetch="http://github.com/mark-james-icd/" />
 	<default revision="refs/heads/master" remote="icd" sync-j="4" />
 	<project path="beethoven" name="beethoven" remote="icd" />
 	<project path="beethoven/videophone" name="videophone" remote="icd" />
